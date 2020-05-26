@@ -1,0 +1,3 @@
+InstrumentId,TradingDate,High,Open,Low,Close,Volume,Turnover,OpenInterest
+ZC611,20160628,439.2,439.2,439.2,439.2,2.0,80000.0,6.0
+ZC611,20160629,449.0,444.4,443.0,444.4,8.0,350000.0,6.0
