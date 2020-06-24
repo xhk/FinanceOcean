@@ -1,0 +1,3 @@
+InstrumentId,TradingDate,High,Open,Low,Close,Volume,Turnover,OpenInterest
+bb2008,20200520,179.0,179.0,179.0,179.0,2.0,179000.0,0.0
+bb2008,20200522,175.35,175.35,175.35,175.35,1.0,87675.0,1.0
